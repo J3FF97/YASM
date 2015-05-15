@@ -1,0 +1,21 @@
+[
+{
+  "modid": "YASM",
+  "name": "Y.A.S.M - Yet Another Steel Mod",
+  "description": "Steel the show with your new materials!",
+  "version": "1.8-1.0",
+  "mcversion": "1.8",
+  "url": "",
+  "updateUrl": "",
+  "authorList": [
+    "J3FF97"
+  ],
+  "credits": "J3FF97",
+  "logoFile": "",
+  "screenshots": [
+  ],
+  "parent":"",
+  "dependencies": [
+  ]
+}
+]
