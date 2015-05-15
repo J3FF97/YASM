@@ -1,0 +1,49 @@
+[15:09:33] [Client thread/INFO]: Setting user: Player460
+[15:09:40] [Client thread/INFO]: LWJGL Version: 2.9.1
+[15:09:47] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Y.A.S.M - Yet Another Steel Mod
+[15:09:48] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[15:09:48] [Thread-7/INFO]: Initializing LWJGL OpenAL
+[15:09:48] [Thread-7/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[15:09:49] [Thread-7/INFO]: OpenAL initialized.
+[15:09:49] [Sound Library Loader/INFO]: Sound engine started
+[15:09:58] [Client thread/INFO]: Created: 512x512 textures-atlas
+[15:10:01] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Y.A.S.M - Yet Another Steel Mod
+[15:10:02] [Client thread/INFO]: SoundSystem shutting down...
+[15:10:02] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
+[15:10:02] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[15:10:02] [Thread-9/INFO]: Initializing LWJGL OpenAL
+[15:10:02] [Thread-9/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[15:10:02] [Thread-9/INFO]: OpenAL initialized.
+[15:10:03] [Sound Library Loader/INFO]: Sound engine started
+[15:10:10] [Client thread/INFO]: Created: 512x512 textures-atlas
+[15:10:41] [Server thread/INFO]: Starting integrated minecraft server version 1.8
+[15:10:41] [Server thread/INFO]: Generating keypair
+[15:10:42] [Server thread/INFO]: Preparing start region for level 0
+[15:10:43] [Server thread/INFO]: Preparing spawn area: 12%
+[15:10:44] [Server thread/INFO]: Preparing spawn area: 73%
+[15:10:46] [Server thread/INFO]: Changing view distance to 12, from 10
+[15:10:46] [Server thread/INFO]: Player460[local:E:d907c2be] logged in with entity id 380 at (148.5, 69.0, 239.5)
+[15:10:46] [Server thread/INFO]: Player460 joined the game
+[15:10:52] [Server thread/INFO]: Player460 has just earned the achievement [Taking Inventory]
+[15:10:52] [Client thread/INFO]: [CHAT] Player460 has just earned the achievement [Taking Inventory]
+[15:10:55] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 8504ms behind, skipping 170 tick(s)
+[15:11:21] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 11838ms behind, skipping 236 tick(s)
+[15:11:29] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2787ms behind, skipping 55 tick(s)
+[15:11:37] [Server thread/INFO]: [Player460: Set own game mode to Survival Mode]
+[15:11:37] [Client thread/INFO]: [CHAT] Your game mode has been updated
+[15:11:47] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3987ms behind, skipping 79 tick(s)
+[15:12:05] [Server thread/INFO]: Player460 has just earned the achievement [Getting Wood]
+[15:12:05] [Client thread/INFO]: [CHAT] Player460 has just earned the achievement [Getting Wood]
+[15:12:07] [Server thread/INFO]: Saving and pausing game...
+[15:12:07] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[15:12:08] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[15:12:08] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[15:12:08] [Server thread/INFO]: Stopping server
+[15:12:08] [Server thread/INFO]: Saving players
+[15:12:08] [Server thread/INFO]: Saving worlds
+[15:12:08] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[15:12:08] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[15:12:08] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[15:12:14] [Client thread/INFO]: Stopping!
+[15:12:14] [Client thread/INFO]: SoundSystem shutting down...
+[15:12:14] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com

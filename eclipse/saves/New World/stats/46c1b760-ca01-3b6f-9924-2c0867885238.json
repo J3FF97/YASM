@@ -1,0 +1,24 @@
+{
+  "stat.crouchOneCm": 15,
+  "stat.mineBlock.minecraft.log": 2,
+  "achievement.exploreAllBiomes": {
+    "value": 0,
+    "progress": [
+      "Forest",
+      "Taiga",
+      "Plains"
+    ]
+  },
+  "achievement.openInventory": 3,
+  "stat.flyOneCm": 1403,
+  "stat.timeSinceDeath": 1549,
+  "stat.leaveGame": 1,
+  "stat.playOneMinute": 1549,
+  "achievement.mineWood": 2,
+  "stat.jump": 8,
+  "stat.walkOneCm": 2892,
+  "stat.mineBlock.minecraft.dirt": 9,
+  "stat.sprintOneCm": 969,
+  "stat.mineBlock.minecraft.stone": 1,
+  "stat.mineBlock.minecraft.tallgrass": 15
+}

@@ -1,0 +1,12 @@
+{
+  "achievement.exploreAllBiomes": {
+    "value": 0,
+    "progress": [
+      "Forest"
+    ]
+  },
+  "achievement.openInventory": 1,
+  "stat.timeSinceDeath": 167,
+  "stat.leaveGame": 1,
+  "stat.playOneMinute": 167
+}

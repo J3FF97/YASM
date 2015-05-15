@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "particle": "yasm:blocks/blockSteel_side",
+    "down": "yasm:blocks/blockSteel_bottom",
+    "up": "yasm:blocks/blockSteel_top",
+    "north": "yasm:blocks/blockSteel_side",
+    "east": "yasm:blocks/blockSteel_side",
+    "south": "yasm:blocks/blockSteel_side",
+    "west": "yasm:blocks/blockSteel_side"
+  }
+}

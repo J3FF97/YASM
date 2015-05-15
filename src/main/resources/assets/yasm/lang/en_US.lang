@@ -1,0 +1,29 @@
+--If Derp Then--
+tile.null.name=Bro, missed something?
+item.null.name=Bro, missed something?
+
+itemGroup.tabYASMItems=Steel Industries Items
+itemGroup.tabYASMBlocks=Steel Industries Blocks
+
+flintAndSteel=Use Steel For Flint And Steel
+
+item.yasm:ingotSteel.name=Steel Ingot
+item.yasm:nuggetSteel.name=Steel Nugget
+item.yasm:itemIronCompound.name=Iron Coal Compound
+item.yasm:itemSteelMesh.name=Steel Chain Mesh
+
+item.yasm:swordSteel.name=Steel Sword
+item.yasm:pickaxeSteel.name=Steel Pickaxe
+item.yasm:axeSteel.name=Steel Axe
+item.yasm:shovelSteel.name=Steel Shovel
+item.yasm:hoeSteel.name=Steel Hoe
+item.yasm:shearsSteel.name=Steel Shears
+
+item.yasm:helmetSteel.name=Steel Helmet
+item.yasm:chestplateSteel.name=Steel Chestplate
+item.yasm:legsSteel.name=Steel Leggings
+item.yasm:bootsSteel.name=Steel Boots
+
+tile.yasm:blockSteel.name=Steel Block
+tile.yasm:barSteel.name=Steel Bars
+

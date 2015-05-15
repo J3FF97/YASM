@@ -1,0 +1,6 @@
+{
+  "parent": "yasm:item/itemTemplate",
+  "textures": {
+    "layer0": "yasm:items/nuggetSteel"
+  }
+}
